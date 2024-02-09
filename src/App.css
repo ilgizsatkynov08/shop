@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.container {
+  width: 1240px;
+  margin: 0 auto;
+  margin-top: 7pc;
+}
+.about{
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+  text-align: center;
+  gap: 2.60pc;
+}
+#das {
+  width: 5000px;
+  height: 450px;
+  margin-top: 1pc;
+}
+.servises{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5pc;
+  align-items: center;
+  justify-content: center;
+}
+.servises img {
+  width: 330px;
+
+
+}
+.key {
+  width: 600px;
+background: #000;
+height: 650px;
+display: flex;
+flex-direction: column;
+align-items: center;
+/* gap: 2pc; */
+}
+
+.home{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.key {
+  display: flex;
+  align-items: center;
+  flex-direction: column; 
+}
+.key input{
+  margin-top: 3pc;
+  width: 500px;
+
+}
+
+.task {
+  color: white;
+}
+body {
+  background: #000;
+}
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: -72pc;
+}
+
+.key {
+  display: flex;
+}
+
+.home {
+  display: flex;
+  text-align: center;
+
+}
+.product {
+  display: flex;
+  align-items: center;
+   
+  
+  flex-wrap: wrap;
+  gap: 6pc;
+}
+
+
+
